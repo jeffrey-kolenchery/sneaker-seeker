@@ -29,3 +29,5 @@ class regularUser extends defaultUser{
   }
 
   }
+
+export {regularUser};
